@@ -1,1 +1,2 @@
 Hello world!
+Extra text to check commit -m config
